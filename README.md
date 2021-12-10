@@ -1,14 +1,14 @@
 ### ¡Hola!
 
-I am Ricardo Muñoz Sánchez (he/him/his), welcome to my GitHub!
+I am Ricardo Muñoz Sánchez (he/him), welcome to my GitHub!
 
-I studied my undergraduate degree in Math and recently finished a masters degree in Artificial Intelligence.
-I am currently interested in natural language processing (NLP) applications and in fairness in AI.
+I recently started a PhD in natural language processing (NLP) at Göteborgs Universitet and the main topic of my research is fake news and misinformation.
+Other topics I'm passionate about is bias and fairness in AI and environmentalism and sustainablility.
+
+A bit more about my background - I did my undergraduate degree in mathematics at Universidad Nacional Autónoma de México (UNAM) back in Mexico.
+Later on, I moved to Scotland to do a masters in artificial intelligence at the University of Edinburgh. You can see more of my projects and other shenanigans in [my website](https://rimusa.github.io/).
 
 Technology is a powerful tool that has opened doors that were previously closed to humanity.
 However, I believe that, as with all tools, it should be used responsibly and with the aim of making a positive change in society.
-
-My masters dissertation was on bias and fairness in NLP, more specifically, on how altering the bias in word embeddings can affect downstream tasks.
-Me and some of my colleagues have recently submitted a paper to a conference in which we expand upon these results, the preprint can be found [here](https://arxiv.org/abs/2012.15859).
 
 I'm looking to collaborate on interesting NLP projects!
